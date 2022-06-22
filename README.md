@@ -1,4 +1,4 @@
-![asands94 github banner](https://i.imgur.com/EcOj6xo.png)
+![asands94 github banner](https://i.imgur.com/6ZLpVmD.png)
 
 <!--
 **asands94/asands94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
